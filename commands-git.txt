@@ -5,3 +5,6 @@ Pour les commandes de push:
 - git add .
 - git commit -m "first commit"
 - git push origin main
+
+Pour la commande de pull:
+- git pull origin main 
